@@ -1,0 +1,13 @@
+.registation {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+    margin-bottom: 3%;
+}
+
+.copyright {
+    font-size: 10px;
+    margin-top: auto;
+}

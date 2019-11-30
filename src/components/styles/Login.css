@@ -1,0 +1,27 @@
+.container-form {
+    display: flex;
+    flex-direction: column;
+    /* width: 500px; */
+    max-width: 500px;
+}
+
+.btn-dark {
+    background-color:  rgb(183, 26, 53) !important;
+    border-color:  rgb(183, 26, 53) !important;
+    margin-top: 25px !important;
+    text-transform: none;
+    padding: 0 50px 0 50px;
+  }
+  
+.btn-dark:hover,
+.btn-dark:focus {
+background-color: rgb(170, 22, 47) !important;
+}
+
+.btn-dark:active {
+background-color: rgb(177, 19, 46) !important;
+}
+
+.btn-dark:focus {
+box-shadow: 0 0 0 0.2rem rgba(255, 64, 28, 0.72) !important;
+}
